@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: white ;
+  opacity: 0.7;
+  margin: 150px;
+  padding: 50px;
+  border-radius: 25px;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+html{
+  background: url("img/football-kreisliga-sports-ground-football-pitch.jpg") no-repeat center fixed;
+  background-size: cover;
+}
